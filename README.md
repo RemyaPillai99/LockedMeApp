@@ -6,4 +6,4 @@ This a prototype for Locked me App which demonstrates some of the key functional
 4.	Option to search files in the application based on a naming pattern.
 5.	These operations are divided between app level and business level menu options with a provision to navigate to and from each other.
 
--- Assessment for Post Graduate Program in Full Stack Web Development
+-- Assessment for Phase 1 Course part of  "Cal Tech Post Graduate Program in Full Stack Web Development"
