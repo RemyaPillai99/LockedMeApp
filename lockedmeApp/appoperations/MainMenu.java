@@ -8,7 +8,7 @@ public enum MainMenu {
     SUB_MENU("2", "Enter the sub menu"),
     QUIT("3", "Exit App" );
 
-    MainMenu(final String symbol, final String description){//, final IFileOperation operation) {
+    MainMenu(final String symbol, final String description){
         this.symbol = symbol;
         this.description = description;
     }
